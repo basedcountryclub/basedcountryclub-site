@@ -1,0 +1,8 @@
+@font-face {
+    font-family: comicsans;
+    src:  url('../font/comicsans.ttf')
+}
+
+h1, p, a {
+    font-family: comicsans;
+}
